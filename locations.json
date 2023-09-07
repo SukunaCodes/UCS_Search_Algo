@@ -1,0 +1,34 @@
+{
+  "sports_complex": {
+    "siwaka": {"weight": 450}
+  },
+  "siwaka": {
+    "phase1.a": {"weight": 10},
+    "phase1.b": {"weight": 230}
+  },
+  "phase1.a" : {
+    "phase1.b": {"weight": 100},
+    "mada": {"weight": 850}
+  },
+  "phase1.b": {
+    "stc": {"weight": 50},
+    "phase2": {"weight": 112}
+  },
+  "stc": {
+    "phase2": {"weight": 50},
+    "parkinglot": {"weight": 250}
+  },
+  "phase2": {
+    "phase3": {"weight": 500},
+    "j1": {"weight": 600}
+  },
+  "phase3": {
+    "parkinglot": {"weight": 350}
+  },
+  "j1": {
+    "mada": {"weight": 200}
+  },
+  "mada": {
+    "parkinglot": {"weight": 700}
+  }
+}
