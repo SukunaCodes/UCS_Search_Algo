@@ -1,0 +1,15 @@
+Location1,Location2,Distance(m)
+Sports Complex,Siwaka,450
+Siwaka,Phase 1.A,10
+Siwaka,Phase 1.B,230
+Phase 1.A,Mada,850
+Phase 1.B,Phase 2,112
+STC,Phase 1.B,50
+Phase 2,STC,50
+Phase 1.A,Phase 1.B,100
+Phase 2,Phase 3,500
+STC,Parking Lot,250
+Phase 2,J1,600
+J1,Mada,200
+Parking Lot,Mada,700
+Phase 3,Parking Lot,350
